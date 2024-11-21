@@ -274,6 +274,8 @@ open('more.txt', 'w').write(generated_text)
 # Export to ONNX
 # Prepare a dummy input
 dummy_input = torch.zeros((1, block_size), dtype=torch.long, device=device)
+torch.save(model.state_dict(), 'bigram_model.pth')
+
 
 # Export the model
 # export_to_onnx(m, dummy_input)

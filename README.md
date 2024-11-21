@@ -50,7 +50,7 @@ pip install torch tensorboard
 ## Training
 Run the script to train the model:
 ```bash
-python shakespeare_model.py
+python bigram.py
 ```
 
 The training process will:
