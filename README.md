@@ -1,5 +1,8 @@
 # Shakespeare Text Generation Model
 
+## GIF Demo
+You can now view a demo GIF showcasing the model's text generation in action! This GIF will give you a quick visual representation of how the model generates Shakespearean text.
+![Demo GIF](demo.gif)
 ## Overview
 A PyTorch-based Bigram Language Model that generates text in the style of Shakespeare, utilizing a transformer-based architecture with advanced natural language processing techniques.
 
