@@ -83,8 +83,5 @@ Automatically detects and uses:
   - Training loss at intervals
 - Generated text in console and `more.txt`
 
-## License
-[Insert your license here]
-
 ## Acknowledgements
 Inspired by Andrej Karpathy's neural network tutorials and the GPT architecture.
